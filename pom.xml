@@ -12,10 +12,10 @@
     <description>Airports Application Case Study</description>
     <inceptionYear>2021</inceptionYear>
     <properties>
-        <sonar.projectKey>testairport</sonar.projectKey>
-        <sonar.organization>ravisuraj000</sonar.organization>
-        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-        <SONAR_TOKEN>c645da9098349fd0af53a1c991e17685c384a69c</SONAR_TOKEN>
+       <sonar.projectKey>ravisuraj000_TestAirport</sonar.projectKey>
+            <sonar.organization>ravisuraj000</sonar.organization>
+            <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+               <SONAR_TOKEN>8c71a71e562e4ac386660af15070073ea25f0027</SONAR_TOKEN>
         <sonar.coverage.jacoco.xmlReportPaths>../testcases/target/site/jacoco-aggregate/jacoco.xml
         </sonar.coverage.jacoco.xmlReportPaths>
     </properties>
